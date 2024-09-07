@@ -56,5 +56,3 @@ Welcome to my GitHub profile! I'm a private dev with a passion for Discord.
 <div align="center">
   <img height="300" src="https://imgur.com/R1mRbRM.gif"  />
 </div>
-
-###
