@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a private dev with a passion for Discord.
 ###
 
 <div align="left">
-  <a href="https://discord.gg/nitro-st0re" target="_blank">
+  <a href="https://discord.gg/nitro-store" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://t.me/gg_nitro_store" target="_blank">
